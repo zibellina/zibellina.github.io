@@ -62,7 +62,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 08bbfea2a03c2df344d5                            #生成的clientID
   clientSecret: c97a37712ac7d1f112c07cc8ff771b1ff669b9c3    #生成的clientSecret
   repo: zibellina.github.io    #仓库名称
